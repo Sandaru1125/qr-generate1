@@ -1,0 +1,78 @@
+*{
+
+margin:0;
+padding:0;
+box-sizing: border-box;
+font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+body{
+
+text-align: center;
+background-color: aqua;
+color: #000;
+
+}
+.app{
+
+padding:2rem 1rem;
+
+}
+.app h1{
+
+font-size: 60px;
+
+}
+input{
+
+
+appearance: none;
+outline: none;
+border:none;
+background: #EEE;
+width: 100%;
+max-width: 300px;
+padding:0.5rem 1rem;
+border-radius: 0.5rem;
+margin-right: 1rem;
+
+}
+button,a{
+
+  appearance: none;
+  outline: none;
+  border:none;
+  background: none;
+  cursor: pointer;
+ color:green;
+ font-size:1.5rem ;
+ line-height: 1;
+ text-decoration: none;
+
+
+}
+img{
+
+display: block;
+width:35% ;
+max: width 300px;
+margin: 2rem auto;
+margin-top: 100px;
+
+
+
+}
+
+.dawnlod{
+
+border:2px solid black;
+border-radius: 10px;
+background-color: red;
+color:white;
+font-size: 32px;
+
+
+
+}
